@@ -1,0 +1,85 @@
+ .u-section-1 {
+  background-image: url("images/windows-10-windows-10x-windows-11-minimalism-material-minimal-hd-wallpaper-preview.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 567px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 35px auto 0 400px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 13px 230px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  width: 649px;
+  margin: 13px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 468px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 330px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 235px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 358px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 269px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 190px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 173px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 176px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 169px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 120px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 109px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 111px;
+    width: 340px;
+  }
+}
